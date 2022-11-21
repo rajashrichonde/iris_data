@@ -4,6 +4,7 @@ import config
 import pickle
 import json
 
+
 class SpeciesType():
     
     def __init__(self,sepal_length,sepal_width,petal_length,petal_width):
